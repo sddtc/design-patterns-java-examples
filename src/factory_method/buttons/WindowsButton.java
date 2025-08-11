@@ -1,6 +1,6 @@
 package factory_method.buttons;
 
-public class WindowsButton implements Button{
+public class WindowsButton implements Button {
     @Override
     public void render() {
         System.out.println("it's a windows style button");

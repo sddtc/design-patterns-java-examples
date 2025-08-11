@@ -5,5 +5,6 @@ import abstract_factory.checkboxes.Checkbox;
 
 public interface GUIFactory {
     Button createButton();
+
     Checkbox createCheckbox();
 }

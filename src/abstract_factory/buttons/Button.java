@@ -1,5 +1,5 @@
 package abstract_factory.buttons;
 
-public interface Button  {
+public interface Button {
     void paint();
 }

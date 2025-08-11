@@ -5,7 +5,7 @@ import abstract_factory.buttons.WindowsButton;
 import abstract_factory.checkboxes.Checkbox;
 import abstract_factory.checkboxes.WindowsCheckbox;
 
-public class WindowsFactory implements GUIFactory{
+public class WindowsFactory implements GUIFactory {
     @Override
     public Button createButton() {
         return new WindowsButton();

@@ -1,6 +1,6 @@
 package factory_method.buttons;
 
-public class HTMLButton implements Button{
+public class HTMLButton implements Button {
     @Override
     public void render() {
         System.out.println("<button>Test Button</button>");
