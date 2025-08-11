@@ -19,7 +19,7 @@ public class Demo {
         circle.color = "red";
         circle.radius = 15;
         shapes.add(circle);
-        
+
         Circle antherCircle = (Circle) circle.clone();
         shapes.add(antherCircle);
 
