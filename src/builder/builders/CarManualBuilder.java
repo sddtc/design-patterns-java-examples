@@ -1,6 +1,5 @@
 package builder.builders;
 
-import builder.cars.Car;
 import builder.cars.CarType;
 import builder.cars.Manual;
 import builder.components.Engine;
